@@ -3,7 +3,7 @@
 - 📖 Student from the Etec Joaquim Ferreira do Amaral Jaú <br>
 - 👨🏻‍💻 2° year of the course Systems development <br>
 
-<h2 align="left">Hi 👋! Meu nome é Diego de Souza Furlanetto </h2
+<h2 align="left">Olá 👋! Meu nome é Diego de Souza Furlanetto </h2
 
 - 📖 Estudante da Etec Joaquim Ferreira do Amaral Jaú <br>
 - 👨🏻‍💻 2° ano do curso Desenvolvimento de Sistemas <br>
