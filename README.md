@@ -22,6 +22,7 @@
   <img src="https://skillicons.dev/icons?i=cs"/>
   <img src="https://skillicons.dev/icons?i=php"/>
   <img src="https://skillicons.dev/icons?i=mysql"/>
+  <img src="https://skillicons.dev/icons?i=code"/>
 </div>
 
 ###
