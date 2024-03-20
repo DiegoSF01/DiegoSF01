@@ -21,7 +21,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" height="30" alt="csharp logo"  />
+  <img width="12"/>
+src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" height="30" alt="csharp logo"  />
 </div>
 
 ###
