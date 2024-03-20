@@ -22,7 +22,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png&tbnid=g4lD7YLBdtE1dM&vet=1&imgrefurl=https://commons.wikimedia.org/wiki/File:Csharp_Logo.png&docid=_Tcp52q81itpRM&w=512&h=512&hl=pt-BR&source=sh/x/im/m1/4&kgs=1c459a220510c417&shem=abc" height="30" alt="csharp logo"  />
 </div>
 
 ###
