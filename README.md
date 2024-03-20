@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <<img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <<img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=DiegoSF01&count_private=true&show_icons=true&theme=react&rank_icon" alt="readme stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoSF01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
