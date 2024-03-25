@@ -27,7 +27,7 @@
  Programming Languages 🔗
 </h4>
 
-###
+<br>
 
 <div align="left">
 
@@ -37,20 +37,20 @@
   <img src="https://skillicons.dev/icons?i=php"/>
   <img src="https://skillicons.dev/icons?i=mysql"/>
 
-###
+<br>
 
 <h4 align="left">
  Tools & Frameworks 🔗
 </h4>
 
-###
+<br>
 
   <img src="https://skillicons.dev/icons?i=vscode"/>
    <img src="https://skillicons.dev/icons?i=visualstudio"/>
 
 </div>
 
-###
+<br>
 
 <h3 align="left">
  🙋🏻 More about me 🙋🏻
@@ -66,5 +66,3 @@
 </a>
 
 </div>
-
-###
