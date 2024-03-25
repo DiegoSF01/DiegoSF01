@@ -50,6 +50,12 @@
 
 ###
 
+<h1 aling="left">
+ 🙋🏻 More about me
+</h1>
+
+###
+
 <div align="left">
   <a href="mailto:diegosouzafurlanetto@gmail.com">
   <img <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height="35" alt="gmail logo"  />
