@@ -15,9 +15,9 @@
 
 ###
 
-<h1 aling="left">
+<h2 aling="left">
  💻 Skills 💻
-</h1>
+</h2>
 
 <div align="left">
 
