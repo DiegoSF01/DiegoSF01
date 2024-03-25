@@ -15,6 +15,10 @@
 
 ###
 
+<h1 aling="left">
+ 💻 Skills 💻
+</h1>
+
 <div align="left">
 
   <img src="https://skillicons.dev/icons?i=html"/>
