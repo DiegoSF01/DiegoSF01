@@ -21,9 +21,9 @@
 
 ###
 
-<h3 aling="left">
+<h4 aling="left">
  Programming Languages 🔗
-</h3>
+</h4>
 
 ###
 
@@ -37,9 +37,9 @@
 
 ###
 
-<h3 aling="left">
+<h4 aling="left">
  Tools & Frameworks 🔗
-</h3>
+</h4>
 
 ###
 
