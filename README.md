@@ -19,6 +19,14 @@
  💻 Skills 💻
 </h2>
 
+###
+
+<h3 aling="left">
+ programming languages 🔗
+</h3>
+
+###
+
 <div align="left">
 
   <img src="https://skillicons.dev/icons?i=html"/>
@@ -26,6 +34,13 @@
   <img src="https://skillicons.dev/icons?i=cs"/>
   <img src="https://skillicons.dev/icons?i=php"/>
   <img src="https://skillicons.dev/icons?i=mysql"/>
+
+###
+
+<h3 aling="left">
+ Tools & Frameworks 🔗
+</h3>
+
   <img src="https://skillicons.dev/icons?i=vscode"/>
    <img src="https://skillicons.dev/icons?i=visualstudio"/>
 
