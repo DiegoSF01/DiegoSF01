@@ -45,7 +45,6 @@
 
   <img src="https://skillicons.dev/icons?i=vscode"/>
    <img src="https://skillicons.dev/icons?i=visualstudio"/>
-   <img src="https://skillicons.dev/icons?i=sql"/>
 
 </div>
 
