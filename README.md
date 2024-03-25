@@ -50,9 +50,9 @@
 
 ###
 
-<h1 aling="left">
+<h2 aling="left">
  🙋🏻 More about me
-</h1>
+</h2>
 
 ###
 
