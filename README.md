@@ -6,6 +6,8 @@
 - 📖 Student from the Etec Joaquim Ferreira do Amaral Jaú <br>
 - 👨🏻‍💻 2° year of the course Systems development <br>
 
+##
+
 <br>
 <br>
 
@@ -52,11 +54,11 @@
 
 <br>
 
-<h3 align="left">
+<h2 align="left">
  🙋🏻 More about me 🙋🏻
-</h3>
+</h2>
 
-##
+<br>
 
 <div align="left">
   <a href="mailto:diegosouzafurlanetto@gmail.com">
