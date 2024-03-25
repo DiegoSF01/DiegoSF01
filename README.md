@@ -15,13 +15,13 @@
 
 ###
 
-<h2 aling="left">
+<h2 align="left">
  💻 Skills 💻
 </h2>
 
 ###
 
-<h4 aling="left">
+<h4 align="left">
  Programming Languages 🔗
 </h4>
 
@@ -37,7 +37,7 @@
 
 ###
 
-<h4 aling="left">
+<h4 align="left">
  Tools & Frameworks 🔗
 </h4>
 
