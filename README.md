@@ -51,7 +51,7 @@
 ###
 
 <h3 align="left">
- 🙋🏻 More about me
+ 🙋🏻 More about me 🙋🏻
 </h3>
 
 ###
