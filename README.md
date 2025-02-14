@@ -35,7 +35,9 @@
 
   <img src="https://skillicons.dev/icons?i=html"/>
   <img src="https://skillicons.dev/icons?i=css"/>
+  <img src="https://skillicons.dev/icons?i=js"/>
   <img src="https://skillicons.dev/icons?i=cs"/>
+  <img src="https://skillicons.dev/icons?i=dotnet"/>
   <img src="https://skillicons.dev/icons?i=php"/>
   <img src="https://skillicons.dev/icons?i=mysql"/>
 
@@ -48,7 +50,8 @@
 <br>
 
   <img src="https://skillicons.dev/icons?i=vscode"/>
-   <img src="https://skillicons.dev/icons?i=visualstudio"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap"/>
 
 </div>
 
@@ -62,9 +65,9 @@
 
 <div align="left">
   <a href="mailto:diegosouzafurlanetto@gmail.com">
-  <img <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height="35" alt="gmail logo"  />
+  <img src="https://skillicons.dev/icons?i=gmail"/>
   <a href="https://www.linkedin.com/in/diego-de-souza-furlanetto-b68ba72b3" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 </div>
