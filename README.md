@@ -4,7 +4,7 @@
 ###
 
 - 📖 Student from the Etec Joaquim Ferreira do Amaral Jaú <br>
-- 👨🏻‍💻 2° year of the course Systems development <br>
+- 👨🏻‍💻 3° year of the course Systems development <br>
 
 ##
 
