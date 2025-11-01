@@ -55,6 +55,7 @@
   <img src="https://skillicons.dev/icons?i=visualstudio"/>
   <img src="https://skillicons.dev/icons?i=bootstrap"/>
 
+<img src="https://skillicons.dev/icons?i=flutter"/>
 </div>
 
 <br>
