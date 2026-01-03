@@ -38,7 +38,6 @@
   <img src="https://skillicons.dev/icons?i=cs"/>
   <img src="https://skillicons.dev/icons?i=dotnet"/>
   <img src="https://skillicons.dev/icons?i=php"/>
-  <img src="https://skillicons.dev/icons?i=python"/>
   <img src="https://skillicons.dev/icons?i=mysql"/>
 
 <br>
